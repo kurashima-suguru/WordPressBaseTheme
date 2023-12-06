@@ -21,6 +21,16 @@ npm install
 ```
 make npm
 ```
+```
+
+## 開発サーバーの起動
+
+```
+npm run dev
+```
+
+を実行し、CLIにエラーが発生しなければ通常に起動します。
+
 
 ### Dockerコンテナのビルド
 
@@ -62,15 +72,6 @@ $ chmod +x /tmp/wp-install.sh
 
 ```
 $ /tmp/wp-install.sh
-```
-
-## 開発サーバーの起動
-
-```
-npm run dev
-```
-
-を実行し、CLIにエラーが発生しなければ通常に起動します。
 
 
 
